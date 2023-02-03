@@ -1,0 +1,55 @@
+plugins {
+    id 'com.android.application'
+    id 'com.jakewharton.butterknife'
+}
+
+android {
+    compileSdk 32
+
+    defaultConfig {
+        applicationId "com.example.meituancooridinator"
+        minSdk 21
+        targetSdk 32
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.appcompat:appcompat:1.5.1'
+    implementation 'com.google.android.material:material:1.6.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    implementation 'com.jakewharton:butterknife:10.2.3'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.3'
+
+    implementation 'com.hyman:flowlayout-lib:1.1.2'
+    implementation 'com.ogaclejapan.smarttablayout:library:1.6.1@aar'
+
+    implementation "com.android.support:support-v4:27.0.2"
+    implementation 'com.android.support:recyclerview-v7:27.0.2'
+    implementation files('libs/overscroll-release-v1.1-20160904.jar')
+
+    implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.40'
+    implementation 'com.oushangfeng:PinnedSectionItemDecoration:1.2.4'
+
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.10.0'
+    implementation 'jp.wasabeef:glide-transformations:4.0.1'
+}

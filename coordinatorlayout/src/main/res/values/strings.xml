@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">coordinatorlayout</string>
+    <string name="behavior_footer">com.example.coordinatorlayout.behavior.FooterBehavior</string>
+</resources>

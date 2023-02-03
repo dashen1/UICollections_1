@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baselibrary" />
+            <option value="$PROJECT_DIR$/coordinatorlayout" />
+            <option value="$PROJECT_DIR$/customfish" />
+            <option value="$PROJECT_DIR$/meituancooridinator" />
+            <option value="$PROJECT_DIR$/meituandetail" />
+            <option value="$PROJECT_DIR$/meituanshoppingcart" />
+            <option value="$PROJECT_DIR$/shimmer" />
+            <option value="$PROJECT_DIR$/swipecardview" />
+            <option value="$PROJECT_DIR$/tiktolkcommentdialog" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

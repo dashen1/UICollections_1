@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMIdeaPluginConfiguration">
+    <asm skipDebug="false" skipFrames="false" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/Android Advance UI/UICollections_1/app/src/main/res/layout/activity_loading_line.xml" value="0.3605072463768116" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/app/src/main/res/layout/activity_loading_network.xml" value="0.21197916666666666" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/app/src/main/res/layout/activity_main.xml" value="0.17447916666666666" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/coordinatorlayout/src/main/res/drawable/sel_bottom_tab_text.xml" value="0.1" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/coordinatorlayout/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/coordinatorlayout/src/main/res/layout/item_string.xml" value="0.17297297297297298" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/customfish/src/main/res/layout/activity_main.xml" value="0.27927927927927926" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/activity_main.xml" value="0.15938303341902313" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/item_string.xml" value="0.3605072463768116" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/merchant_content_layout.xml" value="0.22" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/merchant_food_list_content.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/merchant_food_list_content_image.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/merchant_food_list_recommend.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/merchant_food_list_sticky_title.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/merchant_food_list_top.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/merchant_page_cell_layout.xml" value="0.13676731793960922" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/merchant_page_food_layout.xml" value="0.1" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/merchant_page_layout.xml" value="0.21875" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/merchant_settle_layout.xml" value="0.275" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/merchant_title_layout.xml" value="0.21875" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituancooridinator/src/main/res/layout/ticket_view.xml" value="0.33" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/drawable/selector_menu_left_bg.xml" value="0.19" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/activity_main.xml" value="0.31496062992125984" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/activity_shop_details.xml" value="0.1" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/fragment_shop_details_menu.xml" value="0.2807570977917981" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/fragment_shop_details_shop.xml" value="0.24895833333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/fragment_shop_menu_shop.xml" value="0.24895833333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/fragment_store_details_evaluate.xml" value="0.31614583333333335" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/item_shop_details_menu_left.xml" value="0.20677083333333332" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/item_shop_details_menu_right.xml" value="0.20677083333333332" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/item_shop_details_menu_right_group.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/layout_shop_details_content.xml" value="0.26458333333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/layout_shop_details_discount.xml" value="0.16455696202531644" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/layout_shop_details_title.xml" value="0.26458333333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/layout_shop_price.xml" value="0.26458333333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/widget_shop_details_discount.xml" value="0.26458333333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituandetail/src/main/res/layout/widget_shop_details_discount_expanded.xml" value="0.26458333333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituanshoppingcart/src/main/res/drawable/selector_item_select.xml" value="0.1" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituanshoppingcart/src/main/res/drawable/shape_btn_shopping_cart_bg.xml" value="0.1105" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituanshoppingcart/src/main/res/drawable/shape_shopping_cart_num_bg.xml" value="0.1" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituanshoppingcart/src/main/res/layout/activity_main.xml" value="0.17806484295845998" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituanshoppingcart/src/main/res/layout/include_right_item_title.xml" value="0.3632246376811594" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituanshoppingcart/src/main/res/layout/include_shopping_cart.xml" value="0.22" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituanshoppingcart/src/main/res/layout/item_life_product_bf.xml" value="0.3632246376811594" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/meituanshoppingcart/src/main/res/layout/left_menu_item.xml" value="0.3632246376811594" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/shimmer/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/swipecardview/src/main/res/layout/activity_main.xml" value="0.21265822784810126" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/swipecardview/src/main/res/layout/item_swipe_card.xml" value="0.274609375" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/tiktolkcommentdialog/src/main/res/drawable/shape_bg_white_corner_top_lr_dp12.xml" value="0.1" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/tiktolkcommentdialog/src/main/res/drawable/shape_edit_cursor.xml" value="0.1" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/tiktolkcommentdialog/src/main/res/layout/activity_comment_multi.xml" value="0.25729166666666664" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/tiktolkcommentdialog/src/main/res/layout/activity_main.xml" value="0.25729166666666664" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/tiktolkcommentdialog/src/main/res/layout/dialog_bottomsheet.xml" value="0.3392405063291139" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/tiktolkcommentdialog/src/main/res/layout/dialog_input_text_msg.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/tiktolkcommentdialog/src/main/res/layout/item_comment_child_new.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/tiktolkcommentdialog/src/main/res/layout/item_comment_empty.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/tiktolkcommentdialog/src/main/res/layout/item_comment_new.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/tiktolkcommentdialog/src/main/res/layout/item_comment_new_more.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/tiktolkcommentdialog/src/main/res/layout/item_comment_single_child_new.xml" value="0.36614583333333334" />
+        <entry key="..\:/android/Android Advance UI/UICollections_1/tiktolkcommentdialog/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

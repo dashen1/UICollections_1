@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">meituancooridinator</string>
+
+    <string name="view_behavior_merchant_page">com.example.meituancooridinator.business.MerchantPageBehavior</string>
+</resources>

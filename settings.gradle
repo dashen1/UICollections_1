@@ -1,0 +1,29 @@
+pluginManagement {
+    repositories {
+        google()
+        gradlePluginPortal()
+        mavenCentral()
+        maven { url 'https://mirrors.huaweicloud.com/repository/maven/' }
+        maven{url 'https://jitpack.io'}
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://mirrors.huaweicloud.com/repository/maven/' }
+        maven{url 'https://jitpack.io'}
+    }
+}
+rootProject.name = "UICollections_1"
+include ':app'
+include ':meituandetail'
+include ':coordinatorlayout'
+include ':meituancooridinator'
+include ':meituanshoppingcart'
+include ':swipecardview'
+include ':baselibrary'
+include ':customfish'
+include ':shimmer'
+include ':tiktolkcommentdialog'

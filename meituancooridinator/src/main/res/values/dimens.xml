@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edge">10dp</dimen>
+    <dimen name="normal">14.5dp</dimen>
+    <dimen name="title_height">48dp</dimen>
+    <dimen name="merchant_tab_height">38dp</dimen>
+    <color name="divide_line">#E5E5E5</color>
+
+    <dimen name="merchant_offset">202dp</dimen>
+    <dimen name="merchant_side_width">80dp</dimen>
+</resources>
